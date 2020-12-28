@@ -1,0 +1,488 @@
+[
+    {
+      "Month": 4,
+      "Year": 2012,
+      "Rainfall": 47.5,
+      "WPI": 107.7
+    },
+    {
+      "Month": 5,
+      "Year": 2012,
+      "Rainfall": 31.7,
+      "WPI": 109.3
+    },
+    {
+      "Month": 6,
+      "Year": 2012,
+      "Rainfall": 117.8,
+      "WPI": 107
+    },
+    {
+      "Month": 7,
+      "Year": 2012,
+      "Rainfall": 250.2,
+      "WPI": 113.9
+    },
+    {
+      "Month": 8,
+      "Year": 2012,
+      "Rainfall": 262.4,
+      "WPI": 120.7
+    },
+    {
+      "Month": 9,
+      "Year": 2012,
+      "Rainfall": 193.5,
+      "WPI": 121.7
+    },
+    {
+      "Month": 10,
+      "Year": 2012,
+      "Rainfall": 58.7,
+      "WPI": 114.8
+    },
+    {
+      "Month": 11,
+      "Year": 2012,
+      "Rainfall": 30.7,
+      "WPI": 120.4
+    },
+    {
+      "Month": 12,
+      "Year": 2012,
+      "Rainfall": 11.7,
+      "WPI": 127.7
+    },
+    {
+      "Month": 1,
+      "Year": 2013,
+      "Rainfall": 11.3,
+      "WPI": 131.6
+    },
+    {
+      "Month": 2,
+      "Year": 2013,
+      "Rainfall": 40.1,
+      "WPI": 132.7
+    },
+    {
+      "Month": 3,
+      "Year": 2013,
+      "Rainfall": 15.7,
+      "WPI": 132.5
+    },
+    {
+      "Month": 4,
+      "Year": 2013,
+      "Rainfall": 30.4,
+      "WPI": 136.4
+    },
+    {
+      "Month": 5,
+      "Year": 2013,
+      "Rainfall": 57.8,
+      "WPI": 137.6
+    },
+    {
+      "Month": 6,
+      "Year": 2013,
+      "Rainfall": 219.8,
+      "WPI": 136.9
+    },
+    {
+      "Month": 7,
+      "Year": 2013,
+      "Rainfall": 310,
+      "WPI": 135.3
+    },
+    {
+      "Month": 8,
+      "Year": 2013,
+      "Rainfall": 254.7,
+      "WPI": 131
+    },
+    {
+      "Month": 9,
+      "Year": 2013,
+      "Rainfall": 152.7,
+      "WPI": 130.9
+    },
+    {
+      "Month": 10,
+      "Year": 2013,
+      "Rainfall": 129.4,
+      "WPI": 129.7
+    },
+    {
+      "Month": 11,
+      "Year": 2013,
+      "Rainfall": 14,
+      "WPI": 129.5
+    },
+    {
+      "Month": 12,
+      "Year": 2013,
+      "Rainfall": 6.7,
+      "WPI": 131.1
+    },
+    {
+      "Month": 1,
+      "Year": 2014,
+      "Rainfall": 19.2,
+      "WPI": 132.3
+    },
+    {
+      "Month": 2,
+      "Year": 2014,
+      "Rainfall": 27.4,
+      "WPI": 131.5
+    },
+    {
+      "Month": 3,
+      "Year": 2014,
+      "Rainfall": 36.1,
+      "WPI": 133.6
+    },
+    {
+      "Month": 4,
+      "Year": 2014,
+      "Rainfall": 22.2,
+      "WPI": 134.4
+    },
+    {
+      "Month": 5,
+      "Year": 2014,
+      "Rainfall": 72.9,
+      "WPI": 134.6
+    },
+    {
+      "Month": 6,
+      "Year": 2014,
+      "Rainfall": 95.4,
+      "WPI": 132.5
+    },
+    {
+      "Month": 7,
+      "Year": 2014,
+      "Rainfall": 261.2,
+      "WPI": 134.4
+    },
+    {
+      "Month": 8,
+      "Year": 2014,
+      "Rainfall": 237.5,
+      "WPI": 133.2
+    },
+    {
+      "Month": 9,
+      "Year": 2014,
+      "Rainfall": 188,
+      "WPI": 133.9
+    },
+    {
+      "Month": 10,
+      "Year": 2014,
+      "Rainfall": 60.2,
+      "WPI": 129.3
+    },
+    {
+      "Month": 11,
+      "Year": 2014,
+      "Rainfall": 14.4,
+      "WPI": 125.6
+    },
+    {
+      "Month": 12,
+      "Year": 2014,
+      "Rainfall": 10.7,
+      "WPI": 123.9
+    },
+    {
+      "Month": 1,
+      "Year": 2015,
+      "Rainfall": 17.4,
+      "WPI": 125
+    },
+    {
+      "Month": 2,
+      "Year": 2015,
+      "Rainfall": 21,
+      "WPI": 123.2
+    },
+    {
+      "Month": 3,
+      "Year": 2015,
+      "Rainfall": 62,
+      "WPI": 124.8
+    },
+    {
+      "Month": 4,
+      "Year": 2015,
+      "Rainfall": 69.4,
+      "WPI": 127.3
+    },
+    {
+      "Month": 5,
+      "Year": 2015,
+      "Rainfall": 53.8,
+      "WPI": 126.7
+    },
+    {
+      "Month": 6,
+      "Year": 2015,
+      "Rainfall": 192.8,
+      "WPI": 125.2
+    },
+    {
+      "Month": 7,
+      "Year": 2015,
+      "Rainfall": 242.4,
+      "WPI": 124.3
+    },
+    {
+      "Month": 8,
+      "Year": 2015,
+      "Rainfall": 205.2,
+      "WPI": 127.4
+    },
+    {
+      "Month": 9,
+      "Year": 2015,
+      "Rainfall": 131.8,
+      "WPI": 132.2
+    },
+    {
+      "Month": 10,
+      "Year": 2015,
+      "Rainfall": 42.9,
+      "WPI": 132.7
+    },
+    {
+      "Month": 11,
+      "Year": 2015,
+      "Rainfall": 39.4,
+      "WPI": 135.3
+    },
+    {
+      "Month": 12,
+      "Year": 2015,
+      "Rainfall": 15,
+      "WPI": 139.2
+    },
+    {
+      "Month": 1,
+      "Year": 2016,
+      "Rainfall": 19.3,
+      "WPI": 142.9
+    },
+    {
+      "Month": 2,
+      "Year": 2016,
+      "Rainfall": 22.8,
+      "WPI": 144.2
+    },
+    {
+      "Month": 3,
+      "Year": 2016,
+      "Rainfall": 27.6,
+      "WPI": 147.7
+    },
+    {
+      "Month": 4,
+      "Year": 2016,
+      "Rainfall": 37.4,
+      "WPI": 155.8
+    },
+    {
+      "Month": 5,
+      "Year": 2016,
+      "Rainfall": 62.6,
+      "WPI": 162.6
+    },
+    {
+      "Month": 6,
+      "Year": 2016,
+      "Rainfall": 168.3,
+      "WPI": 158.7
+    },
+    {
+      "Month": 7,
+      "Year": 2016,
+      "Rainfall": 289.1,
+      "WPI": 159.6
+    },
+    {
+      "Month": 8,
+      "Year": 2016,
+      "Rainfall": 256.3,
+      "WPI": 159.3
+    },
+    {
+      "Month": 9,
+      "Year": 2016,
+      "Rainfall": 171.9,
+      "WPI": 155.1
+    },
+    {
+      "Month": 10,
+      "Year": 2016,
+      "Rainfall": 76.1,
+      "WPI": 148.1
+    },
+    {
+      "Month": 11,
+      "Year": 2016,
+      "Rainfall": 29.7,
+      "WPI": 151
+    },
+    {
+      "Month": 12,
+      "Year": 2016,
+      "Rainfall": 14.9,
+      "WPI": 154.7
+    },
+    {
+      "Month": 1,
+      "Year": 2017,
+      "Rainfall": 19,
+      "WPI": 151.9
+    },
+    {
+      "Month": 2,
+      "Year": 2017,
+      "Rainfall": 22.6,
+      "WPI": 151.3
+    },
+    {
+      "Month": 3,
+      "Year": 2017,
+      "Rainfall": 27.8,
+      "WPI": 152.6
+    },
+    {
+      "Month": 4,
+      "Year": 2017,
+      "Rainfall": 37.9,
+      "WPI": 153.8
+    },
+    {
+      "Month": 5,
+      "Year": 2017,
+      "Rainfall": 62.4,
+      "WPI": 153.2
+    },
+    {
+      "Month": 6,
+      "Year": 2017,
+      "Rainfall": 168.1,
+      "WPI": 149.7
+    },
+    {
+      "Month": 7,
+      "Year": 2017,
+      "Rainfall": 289.3,
+      "WPI": 145.4
+    },
+    {
+      "Month": 8,
+      "Year": 2017,
+      "Rainfall": 256.2,
+      "WPI": 143.8
+    },
+    {
+      "Month": 9,
+      "Year": 2017,
+      "Rainfall": 171.5,
+      "WPI": 139.4
+    },
+    {
+      "Month": 10,
+      "Year": 2017,
+      "Rainfall": 76.3,
+      "WPI": 132.9
+    },
+    {
+      "Month": 11,
+      "Year": 2017,
+      "Rainfall": 29.9,
+      "WPI": 130.2
+    },
+    {
+      "Month": 12,
+      "Year": 2017,
+      "Rainfall": 15,
+      "WPI": 133.9
+    },
+    {
+      "Month": 1,
+      "Year": 2018,
+      "Rainfall": 19.2,
+      "WPI": 131.7
+    },
+    {
+      "Month": 2,
+      "Year": 2018,
+      "Rainfall": 20.1,
+      "WPI": 127.9
+    },
+    {
+      "Month": 3,
+      "Year": 2018,
+      "Rainfall": 27.1,
+      "WPI": 126.8
+    },
+    {
+      "Month": 4,
+      "Year": 2018,
+      "Rainfall": 40.2,
+      "WPI": 127
+    },
+    {
+      "Month": 5,
+      "Year": 2018,
+      "Rainfall": 62.7,
+      "WPI": 128.1
+    },
+    {
+      "Month": 6,
+      "Year": 2018,
+      "Rainfall": 165,
+      "WPI": 129.5
+    },
+    {
+      "Month": 7,
+      "Year": 2018,
+      "Rainfall": 286.3,
+      "WPI": 132.9
+    },
+    {
+      "Month": 8,
+      "Year": 2018,
+      "Rainfall": 254.3,
+      "WPI": 138.2
+    },
+    {
+      "Month": 9,
+      "Year": 2018,
+      "Rainfall": 171.9,
+      "WPI": 141.7
+    },
+    {
+      "Month": 10,
+      "Year": 2018,
+      "Rainfall": 77.2,
+      "WPI": 148.6
+    },
+    {
+      "Month": 11,
+      "Year": 2018,
+      "Rainfall": 28.1,
+      "WPI": 161.7
+    },
+    {
+      "Month": 12,
+      "Year": 2018,
+      "Rainfall": 14.1,
+      "WPI": 165.1
+    }
+   ]
